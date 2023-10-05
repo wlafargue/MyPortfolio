@@ -10,4 +10,4 @@ Welcome to my data portfolio! Herein, I reported a summary of few projects in th
 
 | Project | Description | Tools |
 |---|---|---|
-| 💳 [Shopping Cart Analysis](https://github.com/wlafargue/SQL-Portfolio) | Explored synthetic data from Kaggle on an e-commerce business |  PostgreSQL |
+| 💳 [Shopping Cart Analysis](https://github.com/wlafargue/SQL-Portfolio/blob/main/01-Shopping_Cart.ipynb) | Explored synthetic data from Kaggle on an e-commerce business |  PostgreSQL |
