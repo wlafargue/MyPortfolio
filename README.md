@@ -5,4 +5,4 @@ Welcome to my data portfolio! Herein, I reported a summary of few projects in th
 
 | Project | Description | Category | Tools |
 |---|---|---|---|
-| 💳 [Shopping Cart Analysis](https://github.com/wlafargue/MyPortfolio/blob/main/01-Shopping_Cart.ipynb) | Explored synthetic data from Kaggle on an e-commerce business |  Data Analysis | PostgreSQL, Pandas, Seaborn |
+| 💳 [Shopping Cart Analysis](https://github.com/wlafargue/Project-Shopping_Cart_Analysis/blob/main/Shopping_Cart.ipynb) | Explored an e-commerce business dataset from Kaggle |  Data Analysis | PostgreSQL, Pandas, Seaborn |
