@@ -17,7 +17,7 @@ Building in progress 🏗️
 
 | Project | Description | Tools |
 |---|---|---|
-| ☕️ [Coffee Quality Prediction](https://github.com/wlafargue/Project-Coffee_Quality) | Machine Learning for the prediction of the coffeequality - Kaggle dataset | Python |
+| ☕️ [Coffee Quality Prediction](https://github.com/wlafargue/Project-Coffee_Quality) | Machine Learning for the prediction of the coffee quality - Kaggle dataset | Python |
 
 
 ### 🛠️🗄️ Data Engineering
