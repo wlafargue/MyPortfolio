@@ -24,4 +24,4 @@ Building in progress 🏗️
 
 | Project | Description | Tools |
 |---|---|---|
-| 🌳 [Remarkable Trees ETL](https://github.com/wlafargue/Project-Remarkable_Trees) | ETL pipeline for extracting data from CSV file and load to Postgres database | Python, PostgreSQL, Apache Airflow, Docker|
+| 🌳 [Remarkable Trees ETL](https://github.com/wlafargue/Project-Remarkable_Trees) | ETL pipeline for extracting data using Kaggle API, transforming with Pandas and loading to Postgres database | Python, PostgreSQL, Apache Airflow, Docker|
