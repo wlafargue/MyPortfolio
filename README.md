@@ -1,6 +1,6 @@
 # 💼 MyPortfolio
 
-Welcome to my data-oriented portfolio! Herein, I reported a summary of few projects in the data field that I completed with various tools. 
+Welcome to my portfolio! Herein, I reported a summary of few projects that I completed with various tools. 
 
 Building in progress 🏗️
 
@@ -18,6 +18,7 @@ Building in progress 🏗️
 | Project | Description | Tools |
 |---|---|---|
 | ☕️ [Coffee Quality Prediction](https://github.com/wlafargue/CoffeeQuality_ML-Prediction) | Machine Learning for the prediction of the coffee quality - Kaggle dataset | Python |
+| 📦 [Product Price Prediction](https://github.com/wlafargue/ProductPrice_ML-Prediction) | EDA and Machine Learning with PySpark on data extracted using Kaggle API | PySpark, Matplotlib |
 
 
 ### 🛠️🗄️ Data Engineering
