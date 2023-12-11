@@ -18,7 +18,7 @@ Building in progress 🏗️
 | Project | Description | Tools |
 |---|---|---|
 | ☕️ [Coffee Quality Prediction](https://github.com/wlafargue/CoffeeQuality_ML-Prediction) | Machine Learning for the prediction of the coffee quality - Kaggle dataset | Python |
-| 📦 [Product Price Prediction](https://github.com/wlafargue/ProductPrice_ML-Prediction) | EDA and Machine Learning with PySpark on data extracted using Kaggle API | PySpark, Matplotlib |
+| 📦 [Product Prices Prediction](https://github.com/wlafargue/ProductPrice_ML-Prediction) | EDA and Machine Learning with PySpark on product prices | PySpark |
 
 
 ### 🛠️🗄️ Data Engineering
